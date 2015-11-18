@@ -17,6 +17,12 @@ namespace ConsoleProgram1
             {
                 Console.WriteLine("Bienvenido al mejor programa de la historia!!!!");
 
+
+
+
+
+
+
                 Console.WriteLine("Introducir un numero: ");
                 string teclado = Console.ReadLine();
                 double num;
